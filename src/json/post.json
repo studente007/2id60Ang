@@ -1,0 +1,12 @@
+[
+  {"title": "New Item", "id": 1, "description": "The book by Tolkien is a masterpiece", "publishDate": "01/01/2017",
+              "comments": [
+                {"id":1, "text":"Nice book"},
+                {"id":2, "text":"Another comment"}
+                ]},
+  {"title": "The Lord of the Flies", "id": 2, "description": "The book by Flies", "publishDate": "02/02/2017"},
+  {"title": "The Lord of the Apples", "id": 3, "description": "The book by Steve Jobs", "publishDate": "03/03/2017"},
+  {"title": "The Lord of the Pies", "id": 4, "description": "The book by QTPie", "publishDate": "04/04/2017"}
+
+
+]
